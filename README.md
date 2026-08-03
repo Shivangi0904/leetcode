@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivangi0904/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shivangi0904/leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivangi0904/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivangi0904/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shivangi0904/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
