@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/Shivangi0904/leetcode/tree/master/0383-ransom-note) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivangi0904/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -46,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivangi0904/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shivangi0904/leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Shivangi0904/leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Shivangi0904/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
