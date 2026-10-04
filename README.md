@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivangi0904/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivangi0904/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
