@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivangi0904/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivangi0904/leetcode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shivangi0904/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shivangi0904/leetcode/tree/master/0383-ransom-note) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivangi0904/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivangi0904/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
