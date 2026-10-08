@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shivangi0904/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shivangi0904/leetcode/tree/master/0383-ransom-note) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivangi0904/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivangi0904/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivangi0904/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivangi0904/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
