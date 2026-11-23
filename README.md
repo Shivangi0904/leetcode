@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shivangi0904/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivangi0904/leetcode/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivangi0904/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shivangi0904/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
