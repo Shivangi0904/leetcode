@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shivangi0904/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Shivangi0904/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Shivangi0904/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Shivangi0904/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivangi0904/leetcode/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/Shivangi0904/leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivangi0904/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Shivangi0904/leetcode/tree/master/0010-regular-expression-matching) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivangi0904/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Shivangi0904/leetcode/tree/master/0010-regular-expression-matching) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shivangi0904/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shivangi0904/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shivangi0904/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
